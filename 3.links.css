@@ -1,0 +1,20 @@
+a {
+  margin: 10px;
+  padding: 10px;
+  background-color: bisque;
+  text-decoration: none;
+}
+a:link {
+  background-color: chartreuse;
+}
+a:active {
+  background-color: darkgreen;
+}
+a:hover {
+  background-color: aquamarine;
+  color: black;
+}
+a:visited {
+  /* background-color: violet; */
+  /* color: crimson; */
+}
